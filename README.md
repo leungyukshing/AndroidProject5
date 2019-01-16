@@ -8,16 +8,16 @@
 #### 实现一个bilibili的用户视频信息获取软件
 <table>
     <tr>
-        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img1.png?token=AcLSZ2uzmiVGR3PWMUwRDG5Kf-8XHyOmks5cP2f8wA%3D%3D" >打开程序主页面</td>
-        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img2.png?token=AcLSZ7iUF4mwQBLezvFHq6FdH9wWRfvwks5cP2aAwA%3D%3D" >输入用户id，要求正整数int类型，不满足的弹Toast提示即可</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img1.png" >打开程序主页面</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img2.png" >输入用户id，要求正整数int类型，不满足的弹Toast提示即可</td>
     </tr>
     <tr>
-        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img3.png?token=AcLSZ_jzIFhPock9m0dtz2oVO6fCai9uks5cP2aUwA%3D%3D" >输入用户id，点击搜索，网络没打开则弹Toast提示网络连接失败</td>
-        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img4.png?token=AcLSZxakoeD-rrEotGo_94woHEAzpRtOks5cP2alwA%3D%3D" >网络打开情况下，输入用户id，不存在相应数据的弹Toast提示</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img3.png" >输入用户id，点击搜索，网络没打开则弹Toast提示网络连接失败</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img4.png" >网络打开情况下，输入用户id，不存在相应数据的弹Toast提示</td>
     </tr>
     <tr>
-        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img5.png?token=AcLSZ0s6YGVLYoz_9EhL00VX_qhoqJUOks5cP2a_wA%3D%3D" >输入用户id = 2，点击搜索，展示图片/播放数/评论/时长/创建时间/标题/简介内容</td>
-        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img6.png?token=AcLSZ_9686xLcDZP3wDaDlxhxT00eZBhks5cP2bWwA%3D%3D" >再次输入用户id = 7，接着上次结果继续展示以上内容</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img5.png" >输入用户id = 2，点击搜索，展示图片/播放数/评论/时长/创建时间/标题/简介内容</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img6.png" >再次输入用户id = 7，接着上次结果继续展示以上内容</td>
     </tr>
 </table>
 

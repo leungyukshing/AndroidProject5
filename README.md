@@ -40,10 +40,11 @@
 ### 加分项
 <table>
     <tr>
-        <td ><img src="/manual/images/img7.png" >拖动SeekBar，显示相应位置的预览图</td>
-        <td ><img src="/manual/images/img8.png" >拖动SeekBar，显示相应位置的预览图</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img7.png" >拖动SeekBar，显示相应位置的预览图</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img8.png" >拖动SeekBar，显示相应位置的预览图</td>
     </tr>
 </table>
+
 
 * 拖动前后均显示原图片
 * 模拟bilibili网页PC端，完成可拖动的预览功能
@@ -69,12 +70,12 @@
 #### 实现一个github用户repos以及issues应用
 <table>
     <tr>
-        <td ><img src="/manual/images/img9.png" >主界面有两个跳转按钮分别对应两次作业</td>
-        <td ><img src="/manual/images/img10.png" >github界面，输入用户名搜索该用户所有可提交issue的repo，每个item可点击</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img9.png" >主界面有两个跳转按钮分别对应两次作业</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img10.png" >github界面，输入用户名搜索该用户所有可提交issue的repo，每个item可点击</td>
     </tr>
     <tr>
-        <td ><img src="/manual/images/img11.png" >repo详情界面，显示该repo所有的issues</td>
-        <td ><img src="/manual/images/img12.png" >加分项：在该用户的该repo下增加一条issue，输入title和body即可</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img11.png" >repo详情界面，显示该repo所有的issues</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab5/img12.png" >加分项：在该用户的该repo下增加一条issue，输入title和body即可</td>
     </tr>
 </table>
 
